@@ -1,1 +1,1 @@
-This is a online store projet that has command line interface
+This is a online store project that has command line interface
